@@ -1,0 +1,7 @@
+/.project
+Library\
+Library\*
+obj\
+obj\*
+Temp\
+Temp\*
